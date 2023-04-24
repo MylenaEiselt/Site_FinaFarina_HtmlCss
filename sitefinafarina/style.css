@@ -1,0 +1,185 @@
+#titulo1{
+    color: #F2E8A8;
+    font-size: 150px;
+    font-family: Embassy BT;
+}
+
+#titulo2{
+    color: beige;
+    font-family: 'Arial Narrow'
+}
+
+#titulo3{
+    color: #F2E8A8;
+    font-size: 90px;
+}
+
+#subtitulo1{
+   /* margin-top: 20px;*/
+}
+
+#subtitulo2{
+    color: antiquewhite;
+    font-family: 'Arial Narrow';
+    text-align: justify;
+}
+
+#container1{
+    text-align: center;
+
+}
+#container2{
+    text-align: center;
+    /*margin-top: 230px;*/
+
+}
+
+.letraTitulos{
+    font-family: Embassy BT;
+}
+
+#biografia{
+    text-align: justify;
+    color: #2e1c10;
+}
+
+#chefandreia{
+    color: #2e1c10;
+    /*margin-top: 200px;*/
+}
+
+#fotomae{
+    height: 10em;
+    position: relative;
+    display: flex;
+    align-items: center;
+    /*margin-top: 200px;*/
+}
+
+
+#fotomae img{
+    margin: 0;
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.botaoInsta img{
+    margin: 0;
+    position: absolute;
+    top: 300%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.menuBaixo{
+    text-align:center;
+    margin-top: 30px;
+    
+}
+
+.menuBaixo a {
+    color: #2e1c10;
+}
+
+.menuBaixo a:hover{
+    color: brown;
+}
+
+.menuTopo {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.menuPadrao a {
+    color: #F2E6C9;
+}
+
+.menuPadrao a:hover {
+    color: #dbc07a;
+}
+
+
+#bodyIndex{
+    height: px;
+    width: 100%;
+    background-image: url(imagens/1imgdefundo.png);
+}
+
+#subtitulo2 a{
+    color: #F2E6C9 ;
+}
+
+#subtitulo2 a:hover{
+    color: #dbc07a ;
+}
+
+#bodyProdutos{
+    background-image: url(imagens/2imagemfundo.png);
+}
+
+.menuTopo2{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.caixatexto{
+    color: antiquewhite;
+    font-family: 'Arial Narrow';
+    text-align: center;
+}
+
+.menuBaixoprodutos a {
+    color: #F2E6C9;
+}
+.menuBaixoprodutos{
+     text-align: right;
+    margin-top: 30px;
+}
+
+#bodysobrenos{
+    background-image: url(imagens/2imagemfundo.png);
+}
+
+#titulosobrenos{
+    color: #F2E8A8;
+    font-size: 150px;
+    font-family: Embassy BT;
+}
+
+.imagemsobrenos{
+    height: 10em;
+    position: relative;
+    display: center;
+    align-items: center;
+}
+
+.imagemsobrenos img{
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    margin-right: -50%;
+    transform: translate(-20%, -10%);
+}
+
+.menuBaixoprodutos2{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.menuBaixoprodutos2 a {
+    color: #F2E8A8;
+}
+
+.botaoinsta2{
+    margin: 0;
+    position: absolute;
+    top: 220%;
+    left: 95%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
